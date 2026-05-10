@@ -10,10 +10,6 @@ Education: Currently pursuing my B.E./B.Tech in AI & Data Science and hold a Dip
 
 # 📊 GitHub Stats: 
 
-![Omi1718's Stats](https://shion.dev)
-<br/> 
-![Omi1718's Streak](https://streak-stats.demolab.com/?user=Omi1718&theme=dark)
-<br/> 
 ![Omi1718's Top Langs](https://shion.dev) 
 
 --- 
